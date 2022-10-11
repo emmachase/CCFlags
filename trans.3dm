@@ -1,0 +1,18 @@
+return {
+    label = "Trans Flag",
+    emitRedstone = false,
+    lightLevel = 15,
+    shapes = {
+        {
+            0,11,15,16,13,16, texture = "wool_colored_light_blue"
+        }, {
+            0, 9,15,16,11,16, texture = "wool_colored_pink"
+        }, {
+            0, 7,15,16, 9,16, texture = "wool_colored_white"
+        }, {
+            0, 5,15,16, 7,16, texture = "wool_colored_pink"
+        }, {
+            0, 3,15,16, 5,16, texture = "wool_colored_light_blue"
+        },
+    }
+}

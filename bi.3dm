@@ -1,0 +1,15 @@
+return {
+    label = "Bi Flag",
+    emitRedstone = false,
+    lightLevel = 15,
+    shapes = {
+        {
+            0, 9,15,16,13,16, texture = "wool_colored_white",
+            tint = 0xCA1271
+        }, {
+            0, 7,15,16, 9,16, texture = "wool_colored_purple"
+        }, {
+            0, 3,15,16, 7,16, texture = "wool_colored_blue"
+        },
+    }
+}
