@@ -5,9 +5,9 @@
   "lightLevel": 15,
   "redstoneLevel": 0,
   "shapesOff": [
-    {"bounds":[0,9,15,16,13,16],"tint":"CA1271","texture":"wool_colored_white"},
-    {"bounds":[0,7,15,16,9,16],"tint":"FFFFFF","texture":"wool_colored_purple"},
-    {"bounds":[0,3,15,16,7,16],"tint":"FFFFFF","texture":"wool_colored_blue"}
+    {"bounds":[0,9,15,16,13,16],"tint":"CA1271","texture":"minecraft:block/white_wool"},
+    {"bounds":[0,7,15,16,9,16],"tint":"FFFFFF","texture":"minecraft:block/purple_wool"},
+    {"bounds":[0,3,15,16,7,16],"tint":"FFFFFF","texture":"minecraft:block/blue_wool"}
   ],
   "shapesOn": []
 }

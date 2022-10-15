@@ -5,12 +5,12 @@
   "lightLevel": 15,
   "redstoneLevel": 0,
   "shapesOff": [
-    {"bounds":[0,12,15,16,14,16],"tint":"FFFFFF","texture":"wool_colored_red"},
-    {"bounds":[0,10,15,16,12,16],"tint":"FFFFFF","texture":"wool_colored_orange"},
-    {"bounds":[0,8,15,16,10,16],"tint":"FFFFFF","texture":"wool_colored_yellow"},
-    {"bounds":[0,6,15,16,8,16],"tint":"FFFFFF","texture":"wool_colored_lime"},
-    {"bounds":[0,4,15,16,6,16],"tint":"FFFFFF","texture":"wool_colored_blue"},
-    {"bounds":[0,2,15,16,4,16],"tint":"FFFFFF","texture":"wool_colored_purple"}
+    {"bounds":[0,12,15,16,14,16],"tint":"FFFFFF","texture":"minecraft:block/red_wool"},
+    {"bounds":[0,10,15,16,12,16],"tint":"FFFFFF","texture":"minecraft:block/orange_wool"},
+    {"bounds":[0,8,15,16,10,16],"tint":"FFFFFF","texture":"minecraft:block/yellow_wool"},
+    {"bounds":[0,6,15,16,8,16],"tint":"FFFFFF","texture":"minecraft:block/lime_wool"},
+    {"bounds":[0,4,15,16,6,16],"tint":"FFFFFF","texture":"minecraft:block/blue_wool"},
+    {"bounds":[0,2,15,16,4,16],"tint":"FFFFFF","texture":"minecraft:block/purple_wool"}
   ],
   "shapesOn": []
 }
